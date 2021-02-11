@@ -36,7 +36,7 @@ sections:
     has_more_link: true
     more_link_text: Read more
   - title: Contact
-    section_id: lorem-ipsum
+    section_id: contact
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
