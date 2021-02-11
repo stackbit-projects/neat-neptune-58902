@@ -12,8 +12,6 @@ header:
       url: /
     - label: Experience
       url: /generic/
-    - label: Elements
-      url: /elements/
     - label: Resume
       url: /ipsum/
 footer:
