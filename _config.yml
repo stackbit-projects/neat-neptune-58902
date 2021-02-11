@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 header:
-  title: Stackbit Vanilla
+  title: Maile Jim
   has_nav: true
   nav_links:
     - label: About
