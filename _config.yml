@@ -8,7 +8,7 @@ header:
   title: Stackbit Vanilla
   has_nav: true
   nav_links:
-    - label: About
+    - label: Experience
       url: /
     - label: Experience
       url: /generic/
