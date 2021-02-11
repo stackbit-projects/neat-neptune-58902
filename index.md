@@ -41,7 +41,7 @@ sections:
     content: |
       ## Contact
 
-      *email: *mailejim@mit.edu
+      *email:* mailejim@mit.edu
 
       *linkedin:* https://www.linkedin.com/in/maile-jim/
     type: section_content
