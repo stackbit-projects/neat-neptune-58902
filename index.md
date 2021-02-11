@@ -40,13 +40,12 @@ sections:
     type: section_content
     image: images/art.svg
     image_alt: Geometric pattern
-    content: |+
+    content: |
       ### Contact
 
-      *   email: mailejim@mit.edu
+      *email:* mailejim@mit.edu
 
-      *   linkedin: https://www.linkedin.com/in/maile-jim/
-
+      *linkedin:* https://www.linkedin.com/in/maile-jim/
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
