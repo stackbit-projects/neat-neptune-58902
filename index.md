@@ -38,17 +38,12 @@ sections:
   - title: Contact
     section_id: contact
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Contact
 
+      *email: *mailejim@mit.edu
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *linkedin:* https://www.linkedin.com/in/maile-jim/
     type: section_content
 seo:
   title: Stackbit Vanilla Theme
