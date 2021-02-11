@@ -10,7 +10,7 @@ header:
   nav_links:
     - label: Experience
       url: /experience/
-    - label: Experience
+    - label: About
       url: /generic/
     - label: Resume
       url: /resume/
