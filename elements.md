@@ -19,6 +19,10 @@ seo:
       value: UI Kit
     - name: 'twitter:description'
       value: This is the UI kit page
+  robots:
+    - '0': a
+      '1': l
+      '2': l
 layout: page
 title: Welcome! I'm Maile Jim.
 ---
