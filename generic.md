@@ -1,7 +1,7 @@
 ---
 title: Resume
 seo:
-  title: Just a Generic Page
+  title: Resume
   description: This is a generic page
   extra:
     - name: 'og:type'
