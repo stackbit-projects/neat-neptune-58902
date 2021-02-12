@@ -20,6 +20,7 @@ seo:
     - name: 'twitter:description'
       value: This is the UI kit page
 layout: page
+title: Welcome!
 ---
 
 # This is an H1
