@@ -1,6 +1,5 @@
 ---
 title: Resume
-subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page
   description: This is a generic page
