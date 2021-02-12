@@ -2,7 +2,7 @@
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
-  description: This is the UI kit page
+  description: About page
   extra:
     - name: 'og:type'
       value: website
